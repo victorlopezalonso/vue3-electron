@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/victorlopezalonso/vue3-electron/compare/v0.1.1...v0.1.2) (2021-11-19)
+
+
+### Features
+
+* build for mac, win and linux and publish ([5eae91a](https://github.com/victorlopezalonso/vue3-electron/commit/5eae91a46c5067a4d4ee4b40cca0ac7a44245128))
+* public repository ([66c15f4](https://github.com/victorlopezalonso/vue3-electron/commit/66c15f45413e5f56dc3ed629c696f9765755bb2c))
+
 ### 0.1.1 (2021-11-19)
 
 
