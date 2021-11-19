@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/victorlopezalonso/vue3-electron/compare/v0.1.2...v0.1.3) (2021-11-19)
+
+
+### Features
+
+* deploy app ([61c4df3](https://github.com/victorlopezalonso/vue3-electron/commit/61c4df388bbecec023d027cdedf014ab96991e23))
+
 ### [0.1.2](https://github.com/victorlopezalonso/vue3-electron/compare/v0.1.1...v0.1.2) (2021-11-19)
 
 
