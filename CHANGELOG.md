@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.5](https://github.com/victorlopezalonso/vue3-electron/compare/v0.1.4...v0.1.5) (2021-11-19)
+
+
+### Features
+
+* Add tailwindcss configuration ([e64661f](https://github.com/victorlopezalonso/vue3-electron/commit/e64661f059a01ec894e011bc1c6eb00e6aa5f92b))
+
+
+### Bug Fixes
+
+* fix security alerts ([9e99382](https://github.com/victorlopezalonso/vue3-electron/commit/9e99382775ef2adb8fd159f70352534320436eaa))
+* fix security alerts ([cc52203](https://github.com/victorlopezalonso/vue3-electron/commit/cc5220316fa6490de6671568aebacfd75d788794))
+* update readme ([d3b4b3c](https://github.com/victorlopezalonso/vue3-electron/commit/d3b4b3c14ec7da6534dcc7dc3fae5b035d7a43e0))
+
 ### [0.1.4](https://github.com/victorlopezalonso/vue3-electron/compare/v0.1.3...v0.1.4) (2021-11-19)
 
 
