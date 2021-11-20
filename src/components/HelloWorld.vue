@@ -7,7 +7,7 @@
         <h1 class="mb-5 text-5xl font-bold">{{ title }}</h1>
         <p class="mb-5 text-2xl">{{ msg }}</p>
         <a href="/components/modal#my-modal" class="btn btn-primary">
-          open modal
+          <BellIcon class="h-5 w-5 inline-block" /> open modal
         </a>
       </div>
     </div>
@@ -23,10 +23,12 @@
 </template>
 
 <script>
+import { BellIcon } from "@heroicons/vue/solid";
 export default {
   props: {
     title: String,
     msg: String,
   },
+  components: { BellIcon },
 };
 </script>
