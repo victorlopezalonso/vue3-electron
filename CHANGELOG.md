@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.7](https://github.com/victorlopezalonso/vue3-electron/compare/v0.1.6...v0.1.7) (2021-11-20)
+
+
+### Bug Fixes
+
+* Add DaisyUI docs ([b71311b](https://github.com/victorlopezalonso/vue3-electron/commit/b71311b90b1c927668eff556067f79d7e808df1f))
+
 ### [0.1.6](https://github.com/victorlopezalonso/vue3-electron/compare/v0.1.5...v0.1.6) (2021-11-20)
 
 
