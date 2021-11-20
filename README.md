@@ -1,6 +1,6 @@
 # vue3-electron
 
-This is a template to develop `Electron` apps using `Vue3` + `TailwindCSS`
+This is a template to develop `Electron` apps using `Vue3` + `TailwindCSS` + `DaisyUI`
 
 ### Project setup
 
@@ -50,5 +50,6 @@ git push --follow-tags <remote> <branch>
 - [Vue cli](https://cli.vuejs.org/config/)
 - [Vue3](https://v3.vuejs.org/guide/introduction.html)
 - [TailwindCSS](https://tailwindcss.com/docs)
+- [DaisyUI](https://daisyui.com)
 - [Electron builder](https://www.electron.build/)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
