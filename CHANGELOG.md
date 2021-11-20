@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.6](https://github.com/victorlopezalonso/vue3-electron/compare/v0.1.5...v0.1.6) (2021-11-20)
+
+
+### Features
+
+* Add dasyUI ([0968187](https://github.com/victorlopezalonso/vue3-electron/commit/0968187f1685586a7b49748bae866df99ddf955c))
+* Add hero icons ([0e287e5](https://github.com/victorlopezalonso/vue3-electron/commit/0e287e595b07421d6c2fc47b619384c10e624ad5))
+* Add IPC manager ([e1a16af](https://github.com/victorlopezalonso/vue3-electron/commit/e1a16af5edc8aecfaf673fe89bba54dbcf698ece))
+
 ### [0.1.5](https://github.com/victorlopezalonso/vue3-electron/compare/v0.1.4...v0.1.5) (2021-11-19)
 
 
